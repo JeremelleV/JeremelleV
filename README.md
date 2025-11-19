@@ -75,7 +75,7 @@ A cat-themed Minesweeper clone (because the world needs a fun version of my favo
 ## Connect With Me
 Let's talk anything tech, physics, math, or art!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremellev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremellevotary/)
 
 ---
 
