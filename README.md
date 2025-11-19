@@ -8,10 +8,10 @@ CS Student @ MacEwan | Software, Networks, Game Dev, Design | Always Building So
 
 Interested in *almost everything*: 
 - Cybersecurity & Networking
-- Scripting
 - Software Engineering & Development
 - Game Development
 - Design, UI/UX
+- Scripting
 - Quantum Computing
 - Plus: Art, Physics, and Math  
 
@@ -48,12 +48,13 @@ A cat-themed Minesweeper clone (because the world needs a fun version of my favo
 
 ### **Frameworks & Tools**
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-F5820D?logo=firebase&logoColor=white)
 ![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?logo=googlechrome&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFDD00?logo=huggingface&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ### **Cloud / DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
@@ -69,6 +70,7 @@ A cat-themed Minesweeper clone (because the world needs a fun version of my favo
 ![nmap](https://img.shields.io/badge/nmap-2E8B57?logo=nmap&logoColor=white)
 ![iptables](https://img.shields.io/badge/iptables-AAAAAA)
 ![Cron](https://img.shields.io/badge/Cron-555555)
+![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)
 
 ---
 
