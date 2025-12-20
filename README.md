@@ -19,6 +19,7 @@ Experience in:
 - Android Mobile Apps
 - Websites
 - Chrome Extensions
+- Game dev
 - _psst.. Check out my repos to see my work on the above!_
 - VM configuration & deployment
 - Network Analysis & Troubleshooting
@@ -30,6 +31,8 @@ Experience in:
 🐱 **CATSWEEPER**
 
 A cat-themed Minesweeper clone (because the world needs a fun version of my favourite game!)  
+
+[**🎮 Play the latest build on itch.io**](https://jeremellev.itch.io/catsweeper)
 
 ---
 
