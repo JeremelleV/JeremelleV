@@ -65,7 +65,6 @@ A cat-themed Minesweeper clone (because the world needs a fun version of my favo
 ![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)
 ![nmap](https://img.shields.io/badge/nmap-2E8B57?logo=nmap&logoColor=white)
-![iptables](https://img.shields.io/badge/iptables-AAAAAA)
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)
 
 ---
@@ -77,7 +76,7 @@ Let's talk anything tech, physics, math, or art!
 
 ---
 
-## Art Gallery
+## Art Gallery ![Cat Icon](assets/art/Hidden_Cat_Idle.png) ![Cat Icon](assets/art/Mine_Cat.png) ![Cat Icon](assets/art/cat_sink_0.png) ![Cat Icon](assets/art/sick_cat.png)
 
 Highlights of some of the art you might find around my projects! All artwork made by me.
 
